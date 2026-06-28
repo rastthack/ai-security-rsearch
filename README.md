@@ -1,8 +1,6 @@
 # 🛡️ AI Security Research
 
 > **Offensive security research, PoC tooling, and documented attack techniques for ethical hackers and bug bounty hunters.**
-> 
-> Maintained by [RASTTHACK](https://github.com/rastthack) · Dhaka, Bangladesh
 
 ---
 
