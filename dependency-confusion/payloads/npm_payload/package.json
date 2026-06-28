@@ -1,0 +1,11 @@
+{
+  "name": "REPLACE-WITH-TARGET-PACKAGE-NAME",
+  "version": "99.99.1",
+  "description": "Security research — dependency confusion detection payload",
+  "scripts": {
+    "preinstall": "node preinstall.js"
+  },
+  "author": "RASTTHACK — Bug Bounty Research",
+  "license": "MIT",
+  "keywords": ["security", "research"]
+}
