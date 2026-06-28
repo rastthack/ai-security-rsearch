@@ -74,14 +74,5 @@ This research is designed for programs on:
 
 Look for programs with scope that includes `supply chain`, `CI/CD`, `build pipeline`, or `third-party dependencies`.
 
----
-
-## 🔗 Connect
-
-- GitHub: [github.com/rastthack](https://github.com/rastthack)
-- Alias: **RASTTHACK**
-- Certifications: CSEDP (Merit), CASA, API-RTA, CBTP, and more
-
----
 
 *If this research helped you, consider giving the repo a ⭐ and sharing responsibly.*
